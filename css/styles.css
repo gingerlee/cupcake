@@ -2,3 +2,33 @@ body {
   background-color: beige;
   font-family: sans-serif;
 }
+
+.flashy {
+  color: #f00;
+  font-style: italic;
+}
+
+.best {
+  color: #0f0;
+  font-weight: bolder;
+}
+
+h1 {
+  text-transform: uppercase;
+  color: #ff687f;
+  font-size: 4em;
+  letter-spacing: -2px;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  color: #ff687f;
+}
+
+img {
+  height: 500px;
+}
